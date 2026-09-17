@@ -1,0 +1,17 @@
+feature,value
+mean_lbd,1855.11
+variance_lbd,1.02762e+07
+lbd_trend,237.077
+fraction_lbd2,0.3725
+mean_clause_len,2446.02
+mean_dec_level,21344.8
+avg_backtrack_depth,0
+mean_props_per_conflict,110068
+conflict_rate,10.8198
+restart_rate,0.0065
+restart_count,13
+reduction_count,0
+progress_at_k,0.169647
+num_learnts,1785
+learnts_per_conflict,0.8925
+conflict_count,2000
